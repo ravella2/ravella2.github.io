@@ -94,6 +94,25 @@ i.fab {
     margin: .5em;
 }
 
+.signinimg {
+    max-height: 35em;
+    max-width: 35em;
+}
+
+.paragraph {
+    padding: 4em;
+}
+
+.paragraph p {
+    font-size: 20px;
+    padding-top: 5em;
+}
+
+.main {
+    padding: 2em;
+}
+
+
 
 
 
